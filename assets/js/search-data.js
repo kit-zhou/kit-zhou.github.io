@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "Press the purple icon to view/download my CV as a PDF.",
+          description: "Press the purple icon to view/download my CV as a PDF. For basic information, see below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
