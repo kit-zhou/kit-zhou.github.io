@@ -11,6 +11,17 @@ Current students, please check Canvas for your course information.
 
 # As Instructor of Record
 
+College of the Holy Cross
+ECON 110: Principles of Economics (Fall 2025)
+
+Southeastern Louisiana University
+ECON 2020: Principles of Microeconomics (Fall 2024, Spring 2025)
+ECON 3010: Introduction to Labor Economics (Spring 2025)
+
+Michigan State University
+EC 201: Introduction to Microeconomics (Fall 2021)
+
+
 ## Southeastern Lousiana University
 
 **ECON 2020: Principles of Microeconomics**, Spring 2025. 2 sections total.
@@ -31,6 +42,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 | I would recommend this instructor                                                                   | 0              | 0              | 1              | 13             | 3.93 |
 
 <ins>Selected student comments</ins>
+
 * I absolutely love this class. You keep my attention and give so many resources to succeed.
 
 * She was very clear about everything she taught. She cares for her students and their wellbeing. She is amazing and I have no criticism for her!
@@ -59,6 +71,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 **ECON 2020: Principles of Microeconomics**, Fall 2024. 3 sections total.
 
 <ins>Student Evaluations</ins>
+
 Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
 
 |                                                                                                     | \# reporting 1 | \# reporting 2 | \# reporting 3 | \# reporting 4 | Mean |
@@ -74,7 +87,9 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 | Before the last date of withdrawal, the instructor<br>gave me sufficient assessment of my progress. | 0              | 4              | 8              | 44             | 3.71 |
 | I would recommend this instructor                                                                   | 0              | 2              | 6              | 49             | 3.82 |
 
+
 <ins>Selected student comments</ins>
+
 * Dr Zhou is one of the best professors I have had at this university. Their course is extremely well organized and their method of teaching is very effective. Truly a 10/10 professor.
 
 * Professor Zhou is amazing! She takes the time to really hear her students out and it always more than willing to work with anyone and help in any way she can. I would recommend to anyone!!!
@@ -93,6 +108,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 **EC 201: Introduction to Microconomics**. Fall 2021, in-person
 
 <ins>Student Evaluations</ins> 
+
 Please note: 1 = "Excellent", 5 = "Poor". 
 
 |                                                    | % reporting 1      | % reporting 2      | % reporting 3      | % reporting 4      | % reporting 5      | Mean | Std. Dev. | EC201/202 Avg |
@@ -103,11 +119,33 @@ Please note: 1 = "Excellent", 5 = "Poor".
 | Rate the instructor's ability to motivate your interest in the subject | 16.90% | 24.60% | 41.50% | 10.70% | 6.15%  | 2.64 | 1.07      | 2.61          |
 | Rate the amount you learned in this course         | 16.10% | 43.50% | 33.80% | 4.83%  | 1.61%  | 2.32 | 0.85      | 2.38          |
 
+
 <ins>Selected student comments:</ins>
-    * I appreciate how kind Kit Zhou was during this course. She always made accommodations for us since we are still in a pandemic so I really appreciate her consciousness throughout the course.
 
-    * I thought the teaching in lecture was very helpful and bettered my understanding of the subject. I actually took away a lot from this course that I did not think I would take away as well.
+* I appreciate how kind Kit Zhou was during this course. She always made accommodations for us since we are still in a pandemic so I really appreciate her consciousness throughout the course.
 
-    * Professor Zhou was a great teacher and cared deeply for students. I never felt like I was set up to fail. I was always given opportunities to ask questions and improve.
+* I thought the teaching in lecture was very helpful and bettered my understanding of the subject. I actually took away a lot from this course that I did not think I would take away as well.
 
-    * I always felt so much more confident about the material in the course after meeting with her. She was understanding and always kind. She responds immediately to emails and was always willing to help. She is very clear with communicating with the class and sends updates to make sure everyone is on track and aware of what is going on. In class, she always gave real-world examples that helped me understand the material better. She gave great examples of studies that were happening in the real world which made the material relevant. She made it clear she wanted us to succeed and be interested in the material. The exams reflected what we learned in class and did not try to confuse us. She made it clear she was open for office hours always and wanted to do everything she could to help us learn the material and do well in the class.
+* Professor Zhou was a great teacher and cared deeply for students. I never felt like I was set up to fail. I was always given opportunities to ask questions and improve.
+
+* I always felt so much more confident about the material in the course after meeting with her. She was understanding and always kind. She responds immediately to emails and was always willing to help. She is very clear with communicating with the class and sends updates to make sure everyone is on track and aware of what is going on. In class, she always gave real-world examples that helped me understand the material better. She gave great examples of studies that were happening in the real world which made the material relevant. She made it clear she wanted us to succeed and be interested in the material. The exams reflected what we learned in class and did not try to confuse us. She made it clear she was open for office hours always and wanted to do everything she could to help us learn the material and do well in the class.
+
+# As Teaching Assistant (Michigan State University)
+
+**Graduate level**
+
+EC 812b: Microeconomics II (Spring 2020, Spring 2021, Spring 2022, Spring 2023)
+* Responsibilities included designing and teaching recitations. 
+
+Tutor: Microeconomics qualifying exam (Spring 2020, Spring 2021, Spring 2022)
+* Hired by the MSU Dept. of Agriculture, Food, and Resource Economics (AFRE) to prepare AFRE and economics PhD students. 
+
+
+**Undergraduate level**
+* EC 201: Introduction to Microeconomics (Fall 2019)
+* EC 241H: Microeconomics & Public Policy, Honors (Fall 2020)
+* EC 301: Intermediate Microeconomics (Fall 2018, Spring 2020)
+* EC 302: Intermediate Macroeconomics (Spring 2019)
+* EC 404: Behavioral Economics (Fall 2020)
+* EC 480: Analysis of Labor Markets (Fall 2019, Fall 2022)
+* EC 498: Economics of Health Care (Fall 2020)
