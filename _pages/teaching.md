@@ -146,7 +146,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 Please note: 1 = "Excellent", 5 = "Poor". 
 
 |                                                    | % reporting 1      | % reporting 2      | % reporting 3      | % reporting 4      | % reporting 5      | Mean | Std. Dev. | EC201/202 Avg |
-|----------------------------------------------------|--------|--------|--------|--------|--------|------|-----------|---------------|
+|----------------------------------------------------|---------|---------|---------|---------|---------|------|-----------|---------------|
 | Rate the instructor's overall teaching effectiveness| 20%    | 47.60% | 27.60% | 3.07%  | 1.53%  | 2.18 | 0.83      | 2.42          |
 | Rate the overall quality of the course             | 24.60% | 36.90% | 33.80% | 3.07%  | 1.53%  | 2.2  | 0.89      | 2.44          |
 | Rate the instructor's ability to explain course materials and concepts clearly | 26.10% | 44.60% | 23.00% | 4.61%  | 1.53%  | 2.1  | 0.89      | 2.37          |
