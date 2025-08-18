@@ -43,3 +43,13 @@
         - Labor economics
         - Economics of higher education
         - Economics of foster care
+
+- title: Professional Experience
+  type: time_table
+  contents: 
+    - title: Model Analyst, Officer
+      institution: PNC Financial Services
+      year: 2016-2018
+    - title: Risk Associate
+      institution: PNC Financial Services
+      year: 2015-2016
