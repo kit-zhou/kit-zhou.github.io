@@ -7,32 +7,40 @@ nav: true
 nav_order: 6
 ---
 
-Current students, please check Canvas for your course information. I am teaching ECON 110: Principles of Economics Fall 2025 and ECON 255: Microeconomics in SPring 2026.
+Current students, please check Canvas for your course information. I am teaching ECON 110: Principles of Economics in Fall 2025 and ECON 255: Microeconomics in Spring 2026.
 
+<br>
+<Br>
 
 
 # As Instructor of Record
 
-College of the Holy Cross
-ECON 110: Principles of Economics (Fall 2025)
+All classes were taught in person.
 
-Southeastern Louisiana University
-ECON 2020: Principles of Microeconomics (Fall 2024, Spring 2025)
-ECON 3010: Introduction to Labor Economics (Spring 2025)
+<br>
 
-Michigan State University
-EC 201: Introduction to Microeconomics (Fall 2021)
+**College of the Holy Cross**
 
+* ECON 110: Principles of Economics (Fall 2025)
+
+**Southeastern Louisiana University**
+
+* ECON 2020: Principles of Microeconomics (Fall 2024, Spring 2025)
+* ECON 3010: Introduction to Labor Economics (Spring 2025)
+
+**Michigan State University**
+
+* EC 201: Introduction to Microeconomics (Fall 2021)
+
+<br>
+<Br>
 
 ## Southeastern Lousiana University
 
 ### ECON 2020: Principles of Microeconomics
 
-Taught Fall 2024 and Spring 2025.
 
-**Spring 2025. 2 sections total.**
-
-<ins>Student Evaluations</ins>
+<ins>Student Evaluations, Spring 2025</ins> (2 sections)
 
 Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
 
@@ -49,7 +57,10 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 | Before the last date of withdrawal, the instructor<br>gave me sufficient assessment of my progress. | 0              | 0              | 1              | 13             | 3.93 |
 | I would recommend this instructor                                                                   | 0              | 0              | 1              | 13             | 3.93 |
 
-<ins>Selected student comments</ins>
+<Br>
+<Br>
+
+<ins>Selected Student Comments, Spring 2025</ins>
 
 * I absolutely love this class. You keep my attention and give so many resources to succeed.
 
@@ -58,9 +69,11 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 * Dr. Zhou is absolutely wonderful! The course is easy to follow and is laid out for students to follow. Dr. Zhou truly cares for our success in the course and takes personal issues students may have seriously. She gives bonus opportunities for each unit and allows students to work at a good pace.
 
 
-**Fall 2024. 3 sections total.**
+<br>
+<Br>
 
-<ins>Student Evaluations</ins>
+
+<ins>Student Evaluations, Fall 2024</ins> (3 sections)
 
 Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
 
@@ -78,7 +91,10 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 | I would recommend this instructor                                                                   | 0              | 2              | 6              | 49             | 3.82 |
 
 
-<ins>Selected student comments</ins>
+<br>
+<Br>
+
+<ins>Selected Student Comments, Fall 2024</ins>
 
 * Dr Zhou is one of the best professors I have had at this university. Their course is extremely well organized and their method of teaching is very effective. Truly a 10/10 professor.
 
@@ -92,12 +108,12 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 
 * This has been one of my favorite classes at southeastern so far. Not only have I learned a lot but it was very clear what was expected of us
 
+<br>
+<Br>
 
 ### ECON 3010: Introduction to Labor Economics
 
-Taught Spring 2025. 
-
-<ins>Student Evaluations</ins>
+<ins>Student Evaluations, Spring 2025</ins>
 
 Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
 
@@ -115,14 +131,15 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 | I would recommend this instructor                                                                   |                |                |                | 2              | 4 |
 
 
-
+<br>
+<Br>
 
 
 ## Michigan State University 
 
-**EC 201: Introduction to Microconomics**. Fall 2021, in-person
+### EC 201: Introduction to Microeconomics
 
-<ins>Student Evaluations</ins> 
+<ins>Student Evaluations, Fall 2021</ins> 
 
 Please note: 1 = "Excellent", 5 = "Poor". 
 
@@ -134,8 +151,10 @@ Please note: 1 = "Excellent", 5 = "Poor".
 | Rate the instructor's ability to motivate your interest in the subject | 16.90% | 24.60% | 41.50% | 10.70% | 6.15%  | 2.64 | 1.07      | 2.61          |
 | Rate the amount you learned in this course         | 16.10% | 43.50% | 33.80% | 4.83%  | 1.61%  | 2.32 | 0.85      | 2.38          |
 
+<br>
+<Br>
 
-<ins>Selected student comments:</ins>
+<ins>Selected Student Comments, Fall 2021</ins>
 
 * I appreciate how kind Kit Zhou was during this course. She always made accommodations for us since we are still in a pandemic so I really appreciate her consciousness throughout the course.
 
@@ -145,6 +164,9 @@ Please note: 1 = "Excellent", 5 = "Poor".
 
 * I always felt so much more confident about the material in the course after meeting with her. She was understanding and always kind. She responds immediately to emails and was always willing to help. She is very clear with communicating with the class and sends updates to make sure everyone is on track and aware of what is going on. In class, she always gave real-world examples that helped me understand the material better. She gave great examples of studies that were happening in the real world which made the material relevant. She made it clear she wanted us to succeed and be interested in the material. The exams reflected what we learned in class and did not try to confuse us. She made it clear she was open for office hours always and wanted to do everything she could to help us learn the material and do well in the class.
 
+<br>
+<Br>
+
 # As Teaching Assistant (Michigan State University)
 
 **Graduate level**
@@ -152,9 +174,13 @@ Please note: 1 = "Excellent", 5 = "Poor".
 EC 812b: Microeconomics II (Spring 2020, Spring 2021, Spring 2022, Spring 2023)
 * Responsibilities included designing and teaching recitations. 
 
+<br>
+
 Tutor: Microeconomics qualifying exam (Spring 2020, Spring 2021, Spring 2022)
 * Hired by the MSU Dept. of Agriculture, Food, and Resource Economics (AFRE) to prepare AFRE and economics PhD students. 
 
+<br>
+<Br>
 
 **Undergraduate level**
 * EC 201: Introduction to Microeconomics (Fall 2019)
