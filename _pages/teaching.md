@@ -66,7 +66,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 
 * She was very clear about everything she taught. She cares for her students and their wellbeing. She is amazing and I have no criticism for her!
 
-* Dr. Zhou is absolutely wonderful! The course is easy to follow and is laid out for students to follow. Dr. Zhou truly cares for our success in the course and takes personal issues students may have seriously. She gives bonus opportunities for each unit and allows students to work at a good pace.
+* Dr. Zhou is absolutely wonderful! The course is easy to follow and is laid out for students to follow. Dr. Zhou truly cares for our success in the course and takes personal issues students may have seriously.  
 
 
 <br>
