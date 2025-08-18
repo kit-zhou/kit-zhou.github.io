@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant professor at College of the Holy Cross, Department of Economics and Accounting
 
@@ -29,6 +29,6 @@ I am joining the College of the Holy Cross as an assistant professor in Fall 202
 
 I'll be teaching ECON 110: Principles of Economics in Fall 2025 and ECON 255: Microeconomics in Spring 2026. 
 
-My main body of research is the application of two-sided matching theory to the US foster care system and college admissions, among other matching markets. My research combines theoretical modeling with empirical analysis, and I am particularly interested in better understanding how to characterize opportunity, equity, and efficiency in these markets.
+My main body of research applies two-sided matching theory to the US foster care system and college admissions, among other matching markets. My research combines theoretical modeling with empirical analysis, and I am particularly interested in better understanding how to characterize opportunity, equity, and efficiency in these markets.
 
 Planned upcoming conferences: SEA 2025
