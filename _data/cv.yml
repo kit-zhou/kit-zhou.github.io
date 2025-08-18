@@ -31,7 +31,7 @@
       institution: Vassar College
       year: 2015
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Microeconomic theory
@@ -41,5 +41,5 @@
     - title: Applied microeconomics
       items:
         - Labor economics
-        - Economics of higher Education
+        - Economics of higher education
         - Economics of foster care
