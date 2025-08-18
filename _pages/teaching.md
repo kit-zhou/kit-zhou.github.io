@@ -7,7 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-Current students, please check Canvas for your course information.
+Current students, please check Canvas for your course information. I am teaching ECON 110: Principles of Economics Fall 2025 and ECON 255: Microeconomics in SPring 2026.
+
+
 
 # As Instructor of Record
 
@@ -24,10 +26,16 @@ EC 201: Introduction to Microeconomics (Fall 2021)
 
 ## Southeastern Lousiana University
 
-**ECON 2020: Principles of Microeconomics**, Spring 2025. 2 sections total.
+### ECON 2020: Principles of Microeconomics
+
+Taught Fall 2024 and Spring 2025.
+
+**Spring 2025. 2 sections total.**
 
 <ins>Student Evaluations</ins>
+
 Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
+
 |                                                                                                     | \# reporting 1 | \# reporting 2 | \# reporting 3 | \# reporting 4 | Mean |
 | --------------------------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- | ---- |
 | Basis of grading is clearly communicated                                                            | 0              | 0              | 1              | 13             | 3.93 |
@@ -50,25 +58,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 * Dr. Zhou is absolutely wonderful! The course is easy to follow and is laid out for students to follow. Dr. Zhou truly cares for our success in the course and takes personal issues students may have seriously. She gives bonus opportunities for each unit and allows students to work at a good pace.
 
 
-**ECON 3010: Introduction to Labor Economics**, Spring 2025. 
-
-<ins>Student Evaluations</ins>
-Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
-| LABOR                                                                                               | \# reporting 1 | \# reporting 2 | \# reporting 3 | \# reporting 4 |
-| --------------------------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- |
-| Basis of grading is clearly communicated                                                            |                |                |                | 2              | Mean |
-| Instructor engages students in the subject matter                                                   |                |                |                | 2              | 4 |
-| Course is well organized                                                                            |                |                |                | 2              | 4 |
-| Instructor communicates subject matter clearly                                                      |                |                |                | 2              | 4 |
-| Instructor responds to students' questions                                                          |                |                |                | 2              | 4 |
-| Instructor conducts course activities as scheduled                                                  |                |                |                | 2              | 4 |
-| Instructor is concerned about students' progress                                                    |                |                |                | 2              | 4 |
-| Instructor is courteous and respectful                                                              |                |                |                | 2              | 4 |
-| Before the last date of withdrawal, the instructor<br>gave me sufficient assessment of my progress. |                |                |                | 2              | 4 |
-| I would recommend this instructor                                                                   |                |                |                | 2              | 4 |
-
-
-**ECON 2020: Principles of Microeconomics**, Fall 2024. 3 sections total.
+**Fall 2024. 3 sections total.**
 
 <ins>Student Evaluations</ins>
 
@@ -101,6 +91,31 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 * Probably the best instructor I have had at Southeastern thus far. If you go to class and complete your work you will do well. She is concerned with her students and how they are doing in her course and makes an effort to hear what her students think about the course.
 
 * This has been one of my favorite classes at southeastern so far. Not only have I learned a lot but it was very clear what was expected of us
+
+
+### ECON 3010: Introduction to Labor Economics
+
+Taught Spring 2025. 
+
+<ins>Student Evaluations</ins>
+
+Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree". 
+
+|                                                                                               | \# reporting 1 | \# reporting 2 | \# reporting 3 | \# reporting 4 |
+| --------------------------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- |
+| Basis of grading is clearly communicated                                                            |                |                |                | 2              | Mean |
+| Instructor engages students in the subject matter                                                   |                |                |                | 2              | 4 |
+| Course is well organized                                                                            |                |                |                | 2              | 4 |
+| Instructor communicates subject matter clearly                                                      |                |                |                | 2              | 4 |
+| Instructor responds to students' questions                                                          |                |                |                | 2              | 4 |
+| Instructor conducts course activities as scheduled                                                  |                |                |                | 2              | 4 |
+| Instructor is concerned about students' progress                                                    |                |                |                | 2              | 4 |
+| Instructor is courteous and respectful                                                              |                |                |                | 2              | 4 |
+| Before the last date of withdrawal, the instructor<br>gave me sufficient assessment of my progress. |                |                |                | 2              | 4 |
+| I would recommend this instructor                                                                   |                |                |                | 2              | 4 |
+
+
+
 
 
 ## Michigan State University 
