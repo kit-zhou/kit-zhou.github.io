@@ -6,7 +6,7 @@ subtitle: Assistant professor at College of the Holy Cross, Department of Econom
 
 profile:
   align: right
-  image: profileimg.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E-mail: kzhou[@]holycross[.]edu</p>
@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am joining the College of the Holy Cross as an assistant professor in Fall 2025. Previously, I was an assistant professor at Southeastern Louisiana University. I earned my bachelor's degree at Vassar College (Economics and Mathematics, Class of 2015) and completed my PhD in Economics at Michigan State University in 2024. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'll be teaching ECON 110: Principles of Economics in Fall 2025 and ECON 255: Microeconomics in Spring 2026. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main body of research is the application of two-sided matching theory to the US foster care system and college admissions, among other matching markets. My research combines theoretical modeling with empirical analysis, and I am particularly interested in better understanding how to characterize opportunity, equity, and efficiency in these markets.
+
+Planned upcoming conferences: SEA 2025
