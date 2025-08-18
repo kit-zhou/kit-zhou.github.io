@@ -6,7 +6,7 @@ subtitle: Assistant professor at College of the Holy Cross, Department of Econom
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profileimg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E-mail: kzhou[@]holycross[.]edu</p>
