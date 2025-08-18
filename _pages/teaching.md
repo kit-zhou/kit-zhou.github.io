@@ -17,8 +17,6 @@ Current students, please check Canvas for your course information. I am teaching
 
 All classes were taught in person.
 
-<br>
-
 **College of the Holy Cross**
 
 * ECON 110: Principles of Economics (Fall 2025)
@@ -36,6 +34,8 @@ All classes were taught in person.
 <Br>
 
 ## Southeastern Lousiana University
+
+<br>
 
 ### ECON 2020: Principles of Microeconomics
 
@@ -136,6 +136,8 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 
 
 ## Michigan State University 
+
+<br>
 
 ### EC 201: Introduction to Microeconomics
 
