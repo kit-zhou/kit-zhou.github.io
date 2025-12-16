@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Current students, please check Canvas for your course information. I am teaching ECON 110: Principles of Economics in Fall 2025 and ECON 255: Microeconomics in Spring 2026.
+Current students, please check Canvas for your course information. I am teaching ECON 255: Microeconomics in Spring 2026.
 
 <br>
 <Br>
@@ -19,6 +19,7 @@ All classes were taught in person.
 
 **College of the Holy Cross**
 
+* ECON 255: Microeconomics (Spring 2026)
 * ECON 110: Principles of Economics (Fall 2025)
 
 **Southeastern Louisiana University**
