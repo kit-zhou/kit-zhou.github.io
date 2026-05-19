@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Current students, please check Canvas for your course information. I am teaching ECON 255: Microeconomics in Spring 2026.
+Current students, please check Canvas for your course information. I am teaching ECON 399: Designing Fair Markets in Fall 2026.
 
 <br>
 <Br>
@@ -19,8 +19,8 @@ All classes were taught in person.
 
 **College of the Holy Cross**
 
-* ECON 255: Microeconomics (Spring 2026)
 * ECON 110: Principles of Economics (Fall 2025)
+* ECON 255: Microeconomics (Spring 2026)
 
 **Southeastern Louisiana University**
 
@@ -34,7 +34,7 @@ All classes were taught in person.
 <br>
 <Br>
 
-## Southeastern Lousiana University
+## Student Evaluations at Southeastern Lousiana University
 
 <br>
 
@@ -136,7 +136,7 @@ Please note: 1 = "Strongly Disagree", 4 = "Strongly Agree".
 <Br>
 
 
-## Michigan State University 
+## Student Evaluations at Michigan State University 
 
 <br>
 
@@ -180,7 +180,7 @@ EC 812b: Microeconomics II (Spring 2020, Spring 2021, Spring 2022, Spring 2023)
 <br>
 
 Tutor: Microeconomics qualifying exam (Spring 2020, Spring 2021, Spring 2022)
-* Hired by the MSU Dept. of Agriculture, Food, and Resource Economics (AFRE) to prepare AFRE and economics PhD students. 
+* Hired by the MSU Dept. of Agriculture, Food, and Resource Economics (AFRE) to prepare AFRE and Economics PhD students for the Microeconomics first year qualifying exams. 
 
 <br>
 <Br>
