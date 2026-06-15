@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant professor at College of the Holy Cross, Department of Economics and Accounting
+subtitle: Assistant Professor, Economics
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
 
 I am an assistant professor at the College of the Holy Cross, Department of Economics and Accounting. Previously, I was an assistant professor at Southeastern Louisiana University. I earned my bachelor's degree at Vassar College (Economics and Mathematics, Class of 2015) and completed my PhD in Economics at Michigan State University in 2024. 
 
-My main body of research applies two-sided matching theory to the US foster care system and college admissions, among other matching markets. My research combines theoretical modeling with empirical analysis, and I am particularly interested in better understanding how to characterize opportunity, equity, and efficiency in these markets.
+My main body of research applies two-sided matching theory to the US foster care system and college admissions, among other matching markets. My research combines theoretical modeling with empirical analysis. I am particularly interested in better understanding how to characterize opportunity, equity, and efficiency in these markets.
