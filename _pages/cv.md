@@ -4,7 +4,7 @@ permalink: /cv/
 title: Curriculum Vitae
 nav: true
 nav_order: 5
-cv_pdf: CV_KitZhou_May2026.pdf # you can also use external links here
+cv_pdf: CV_KitZhou_July2026.pdf # you can also use external links here
 description: Press the purple icon to view/download my CV as a PDF. For basic information, see below.
 toc:
   sidebar: left
